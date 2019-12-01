@@ -19,7 +19,7 @@ URL = 'https://github.com/SamSepi0l59/medikalnet'
 EMAIL = 'iamvk888@gmail.com'
 AUTHOR = 'Vignesh Kotteeswaran'
 REQUIRES_PYTHON = '>=3.0.0'
-VERSION = '0.0.1a10'
+VERSION = '0.0.1a12'
 
 
 # The rest you shouldn't have to touch too much :)
